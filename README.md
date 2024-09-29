@@ -33,6 +33,6 @@ This project demonstrates a simple HTML and CSS implementation of a search bar t
 
 When the user clicks on the search input field, the search bar expands from 30% width to 100% of its container. The border also changes color, signaling focus. When the input field is no longer focused, it reverts back to its original state.
 Example:
-Uploading 0929(1).mp4…
+![Demo GIF](.gif)
 
 
